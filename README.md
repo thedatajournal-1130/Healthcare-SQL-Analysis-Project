@@ -61,7 +61,7 @@ test_results
 
 ● Data Cleaning Techniques
 
-📊 Exploratory Data Analysis (EDA)
+# 📊 Exploratory Data Analysis (EDA)
 
 Performed analysis such as:
 
