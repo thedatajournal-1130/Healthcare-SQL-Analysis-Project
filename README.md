@@ -1,6 +1,6 @@
 # **Healthcare-SQL-Analysis-Project**
 
-# 📌 Project Overview
+# 📌 **Project Overview**
 
 This Project Focuses on analysing a Healthcare Dataset using SQL to uncover Operational, Financial, and patient-related insights. The Project demonstrates real-world data analytics
 workflows including :
@@ -17,7 +17,7 @@ workflows including :
 
 The Goal of this project is to simulate how healthcare organization can use SQl- driven analytics to improve operational efficiency, revenue management, and patient care analysis.
 
-# Datasets 
+# 📂 **Datasets **
 
 The Dataset contains Healthcare data with following key fields :
 
@@ -51,7 +51,7 @@ Medication
 
 test_results
 
-🧰 Tools & Skills Used
+# 🧰 **Tools & Skills Used**
 
 ● Microsoft Excel
 
@@ -79,7 +79,7 @@ Performed analysis such as:
 
 ► Revenue analysis
 
-# 💼 Advanced Business Problems Solved
+# 💼 **Advanced Business Problems Solved**
 
 
 
