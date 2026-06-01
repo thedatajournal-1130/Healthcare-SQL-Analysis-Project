@@ -17,7 +17,7 @@ workflows including :
 
 The Goal of this project is to simulate how healthcare organization can use SQl- driven analytics to improve operational efficiency, revenue management, and patient care analysis.
 
-# 📂 **Datasets **
+# 📂 **Datasets**
 
 The Dataset contains Healthcare data with following key fields :
 
