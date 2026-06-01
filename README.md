@@ -86,3 +86,15 @@ Performed analysis such as:
 ► Ranked doctors by total billing revenue generated. 
 
 ► Determined the highest revenue-generating medical conditions.
+
+► Identified potential revenue leakage using stay length and billing comparisons. 
+
+# 🔍 Key Insights 
+
+◆ Diabetes generated the highest total billing revenue, contributing $236 million across all patient encounters.
+
+◆ Cigna accounted for the largest share of billed revenue among all the insurance providers.
+
+◆ Michale Smith generated the highest billing revenue, making them the top-performing physician from a financial perspective.
+
+
