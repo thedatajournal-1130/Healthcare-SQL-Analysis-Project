@@ -81,6 +81,8 @@ Performed analysis such as:
 
 # 💼 **Advanced Business Problems Solved**
 
+► Evaluated hospital efficiency through patient stay duration analysis. 
 
+► Ranked doctors by total billing revenue generated. 
 
-
+► Determined the highest revenue-generating medical conditions.
