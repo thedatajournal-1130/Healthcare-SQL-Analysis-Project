@@ -69,11 +69,13 @@ Performed analysis such as:
 
 ► Average patient age
 
-► Most common medical conditions
+► Most common Medication used.
 
-► Hospital-wise patient distribution
+► Hospital-wise Patient distribution
 
-► Revenue analysis
+► Average Billing by Gender
+
+► Top 5 Most Expensive Treatments 
 
 # 💼 **Advanced Business Problems Solved**
 
