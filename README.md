@@ -11,8 +11,6 @@ workflows including :
 
 ● Exploratory data Aanalysis
 
-● Advanced SQL querying 
-
 ● Business Problem Solving
 
 The Goal of this project is to simulate how healthcare organization can use SQl- driven analytics to improve operational efficiency, revenue management, and patient care analysis.
@@ -59,7 +57,7 @@ test_results
 
 ● Aggregate Functions
 
-● Data Cleaning Techniques
+● Window functions
 
 # 📊 Exploratory Data Analysis (EDA)
 
@@ -75,26 +73,26 @@ Performed analysis such as:
 
 ► Hospital-wise patient distribution
 
-► Insurance provider analysis
-
 ► Revenue analysis
 
 # 💼 **Advanced Business Problems Solved**
 
-► Evaluated hospital efficiency through patient stay duration analysis. 
+► Analyzed billing revenue distribution across insurance providers. 
 
 ► Ranked doctors by total billing revenue generated. 
 
 ► Determined the highest revenue-generating medical conditions.
 
-► Identified potential revenue leakage using stay length and billing comparisons. 
+► Analyzed patients with extended hospital stays and comparatively low billing amounts.
 
 # 🔍 Key Insights 
-
-◆ Diabetes generated the highest total billing revenue, contributing $236 million across all patient encounters.
 
 ◆ Cigna accounted for the largest share of billed revenue among all the insurance providers.
 
 ◆ Michale Smith generated the highest billing revenue, making them the top-performing physician from a financial perspective.
+
+◆ Diabetes generated the highest total billing revenue, contributing $236 million across all patient encounters.
+
+◆ Analysis revealed cases where extended hospital stays were not associated with proportionally higher billing amounts, suggesting variations   in healthcare reimbursement and cost allocation patterns.
 
 
