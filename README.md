@@ -77,6 +77,10 @@ Performed analysis such as:
 
 ► Top 5 Most Expensive Treatments 
 
+► Monthly Patients Admission 
+
+► Ranking Hospitals by Revenue 
+
 # 💼 **Advanced Business Problems Solved**
 
 ► Analyzed billing revenue distribution across insurance providers. 
